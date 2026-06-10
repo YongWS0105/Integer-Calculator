@@ -24,6 +24,7 @@ The top-level structural wrapper (`calc_top.sv`) integrates four main micro-arch
 ## Verification
 The design achieves 100% functional coverage across 25 automated test cases, successfully trapping edge cases such as zero-blanking, negative sign toggling, and complex operation sequences.
 
+## Preview of Top Level Functional Diagram
 <img width="843" height="245" alt="image" src="https://github.com/user-attachments/assets/03c7faaf-749b-4a38-88e5-1c13fbfab4f5" />
 <img width="834" height="465" alt="image" src="https://github.com/user-attachments/assets/fce83f34-9afe-4792-b7de-48833cfa9664" />
 <img width="761" height="184" alt="image" src="https://github.com/user-attachments/assets/e3f3a27b-4f13-46a0-b330-02c925330c00" />
